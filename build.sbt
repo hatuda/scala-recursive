@@ -4,5 +4,6 @@ ThisBuild / scalaVersion := "3.3.1"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "scala-recursive"
+    name := "scala-recursive",
+    libraryDependencies ++= Seq("dev.zio" %% "zio" % "2.0.13")
   )
