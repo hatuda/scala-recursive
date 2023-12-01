@@ -1,5 +1,3 @@
-import scala.annotation.tailrec
-
 @main
 def main(): Unit =
   println("StackOverFlow test:Fibonacci")
