@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dac2880b-84fa-4700-8c87-dc472fa32d12" name="変更" comment="update:不要ファイル削除">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/StackOverFlowExample.scala" afterDir="false" />
+    <list default="true" id="dac2880b-84fa-4700-8c87-dc472fa32d12" name="変更" comment="add:通常のStackOverFlow例を追加">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/SoeRecursionZIO.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/SoeRecursionZIO.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +91,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="アプリケーション.main" />
-        <item itemvalue="アプリケーション.ChangingRecursionZIO" />
         <item itemvalue="アプリケーション.SoeRecursionZIO" />
+        <item itemvalue="アプリケーション.ChangingRecursionZIO" />
         <item itemvalue="アプリケーション.RecursionZIO" />
         <item itemvalue="アプリケーション.basicFib" />
       </list>
@@ -127,12 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701322630639</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add:通常のStackOverFlow例を追加">
+      <option name="closed" value="true" />
+      <created>1701409018070</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701409018070</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add:フィボナッチ数列の再起処理について追加&#10;add:ZIOの再処理の失敗例、成功例について追加" />
     <MESSAGE value="update:不要ファイル削除" />
-    <option name="LAST_COMMIT_MESSAGE" value="update:不要ファイル削除" />
+    <MESSAGE value="add:通常のStackOverFlow例を追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="add:通常のStackOverFlow例を追加" />
   </component>
 </project>
