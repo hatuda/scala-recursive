@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dac2880b-84fa-4700-8c87-dc472fa32d12" name="変更" comment="add:フィボナッチ数列の再起処理について追加&#10;add:ZIOの再処理の失敗例、成功例について追加">
+    <list default="true" id="dac2880b-84fa-4700-8c87-dc472fa32d12" name="変更" comment="update:不要ファイル削除">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StackOverFlowExample.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.RecursionZIO">
+  <component name="RunManager" selected="アプリケーション.main">
+    <configuration name="ChangingRecursionZIO" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ChangingRecursionZIO" />
+      <module name="scala-recursive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RecursionZIO" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="RecursionZIO" />
       <module name="scala-recursive" />
@@ -82,10 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.RecursionZIO" />
-        <item itemvalue="アプリケーション.SoeRecursionZIO" />
-        <item itemvalue="アプリケーション.basicFib" />
         <item itemvalue="アプリケーション.main" />
+        <item itemvalue="アプリケーション.ChangingRecursionZIO" />
+        <item itemvalue="アプリケーション.SoeRecursionZIO" />
+        <item itemvalue="アプリケーション.RecursionZIO" />
+        <item itemvalue="アプリケーション.basicFib" />
       </list>
     </recent_temporary>
   </component>
@@ -110,11 +119,20 @@
       <option name="project" value="LOCAL" />
       <updated>1700465428417</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update:不要ファイル削除">
+      <option name="closed" value="true" />
+      <created>1701322630639</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701322630639</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add:フィボナッチ数列の再起処理について追加&#10;add:ZIOの再処理の失敗例、成功例について追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="add:フィボナッチ数列の再起処理について追加&#10;add:ZIOの再処理の失敗例、成功例について追加" />
+    <MESSAGE value="update:不要ファイル削除" />
+    <option name="LAST_COMMIT_MESSAGE" value="update:不要ファイル削除" />
   </component>
 </project>
